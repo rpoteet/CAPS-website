@@ -1,0 +1,59 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+  margin: 2em;
+  background-color: #000000;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: 'Titillium Web', sans-serif;
+  color: #E1FDFF;
+  text-align: center;
+}
+
+h2 {
+  color: #E1FDFF;
+  text-align: right;
+}
+
+h3 {
+  color:#E1FDFF;
+  text-align: right;
+}
+
+div {
+  font-size: 60px;
+  color: #E1FDFF;
+  text-align: center;
+  border: 6px solid #E1FDFF;
+  background-color: #242424;
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 10px;
+    }
+
+img{
+  float: left;
+  padding-top: 33px;
+  padding-left: 20px;
+}
+
+a:link {
+  color: #E1FDFF;
+  text-decoration: none;
+}
+
+a:visited {
+ color: #E1FDFF;
+}
+
+a:hover {
+ background-color: #FFC3D8;
+ color: black;
+}
+
+a:active {
+ color: #E1FDFF; 
+}

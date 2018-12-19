@@ -1,0 +1,100 @@
+body {
+  background-color: #000000;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 450px;
+  width: 750px;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  color: #E1FDFF;
+  text-align: center;
+  font-size: 80px;
+}
+
+h2 {
+  color: #E1FDFF;
+  text-align: right;
+}
+
+h3 {
+  color: #E1FDFF;
+  text-align: right;
+  font-size: 25px;
+}
+
+
+h4 {
+  color:#E1FDFF;
+  text-align: right;
+}
+
+h5 {
+  color: #E1FDFF;
+  text-align: center;
+  font-size: 40px;
+}
+
+#bad1 {
+background-color: #B51412;
+}
+
+#bad2{
+background-color: #B51412;
+}
+
+#bad3{
+background-color: #B51412;
+}
+
+#bad4{
+background-color: #B51412;
+}
+
+#bad5{
+background-color: #B51412;
+}
+
+table {
+  width: 80%;
+  color: #E1FDFF;
+  font-size: 20px;
+  text-align: center;
+  background-color: #242424;
+}
+
+td {
+  border-bottom: 1px solid #4A4A4A;
+  padding-top: 20px;
+  color: #E1FDFF;
+}
+
+th {
+ font-size: 30px;
+ border-bottom: 3px solid #4A4A4A;
+}
+
+a:link {
+  color: #E1FDFF;
+  text-decoration: none;
+}
+
+a:visited {
+ color: #E1FDFF;
+}
+
+a:hover {
+ background-color: #FFC3D8;
+ color: black;
+}
+
+a:active {
+ color: #E1FDFF; 
+}
